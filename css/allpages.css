@@ -1,0 +1,32 @@
+ #share-buttons img {
+width: 30px;
+padding: 4px;
+border: 0;
+box-shadow: 0;
+display: inline-block;
+}
+    .container { 
+    display:inline-block;
+    position:relative;
+}
+body {
+    
+
+
+font-family: "Trebuchet MS", Helvetica, sans-serif;}
+}
+
+.p {color:white;
+    font-size:12px;}
+h3{color:white;
+  font-size:14px;}
+ 
+h4{ color:white;
+font-size:18px 
+text: underline;}
+.row{width:100%;}
+.thumbnail{
+     border:none; 
+     background-color: transparent; 
+     box-shadow:none; 
+  }
